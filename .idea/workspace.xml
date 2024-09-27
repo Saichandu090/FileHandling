@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1db21f3b-5739-48f3-8283-b631f64bc361" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bufferreader/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/copyfilecontent/Reading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/copyfilecontent/Writing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/copyingfilecontentusingbuffer/Reading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/countwordsinfile/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filewriter/Writing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/largedatafileprocessing/ProcessingData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/merging/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reversefilecontent/Reversing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transaction.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mMqeX1K6NySKNCuPh8lkV8RZMy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayExample.executor": "Run",
+    "Application.Counting.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.Merge.executor": "Run",
+    "Application.PrimeExample.executor": "Run",
+    "Application.ProcessingData.executor": "Run",
+    "Application.Read.executor": "Run",
+    "Application.Reading.executor": "Run",
+    "Application.Reversing.executor": "Run",
+    "Application.Writing.executor": "Run",
+    "Application.filewriter.Writing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Merge">
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="merging.Merge" />
+      <module name="File-Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="merging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessingData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="largedatafileprocessing.ProcessingData" />
+      <module name="File-Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="largedatafileprocessing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bufferreader.Read" />
+      <module name="File-Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bufferreader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="copyingfilecontentusingbuffer.Reading" />
+      <module name="File-Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="copyingfilecontentusingbuffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reversing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reversefilecontent.Reversing" />
+      <module name="File-Handling" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reversefilecontent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Merge" />
+        <item itemvalue="Application.Reading" />
+        <item itemvalue="Application.ProcessingData" />
+        <item itemvalue="Application.Reversing" />
+        <item itemvalue="Application.Read" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1db21f3b-5739-48f3-8283-b631f64bc361" name="Changes" comment="" />
+      <created>1726896890127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726896890127</updated>
+    </task>
+    <servers />
+  </component>
+</project>

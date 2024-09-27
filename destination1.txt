@@ -1,0 +1,13 @@
+Problem 3: Copying File Contents
+Scenario:
+You need to create a utility that copies the contents of one text file to another. This utility should
+be able to handle large files efficiently.
+Requirements:
+1. Read Source File:
+○ Read data from source.txt.
+2. Write to Destination File:
+○ Write the copied data to destination.txt.
+Implementation Approach:
+1. Read and Write with BufferedReader and BufferedWriter:
+○ Use BufferedReader to read from source.txt.
+○ Use BufferedWriter to write to destination.txt.
